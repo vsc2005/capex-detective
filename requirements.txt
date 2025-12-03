@@ -5,4 +5,4 @@ langchain-community
 pypdf
 faiss-cpu
 openai
-ticktoken
+tiktoken
